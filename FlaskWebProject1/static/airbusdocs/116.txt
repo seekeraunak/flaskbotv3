@@ -1,0 +1,2 @@
+One A380 Operator has reported problem loading AMI via the Airbus NSS system
+how to fix the issue

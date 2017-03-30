@@ -1,0 +1,1 @@
+At what voltage can I expect the batteries to fault the Flight Management Guidance Envelope Computer FMGEC.

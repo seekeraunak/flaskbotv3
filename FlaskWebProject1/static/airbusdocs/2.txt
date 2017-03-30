@@ -1,0 +1,2 @@
+Is there any change of the function within new S1A FMS SW upgrade.
+when the destination station in the FMS has been changed during flight, the FMS automatically downlinked a report that can be used as a diversion information or report for further processing.

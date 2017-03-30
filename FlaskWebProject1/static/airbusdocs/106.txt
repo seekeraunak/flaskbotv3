@@ -1,0 +1,2 @@
+Is FMGC or FMGEC capable of sending progress report with trigger code 47 that is change in arrival airport and 48 that is change in arrival runway
+FMGC Part number B546CAM0104 and FMGEC Part number B490BAM0310 and FMGEC Part number B490AAM0313

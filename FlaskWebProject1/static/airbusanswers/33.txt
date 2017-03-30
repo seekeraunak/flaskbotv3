@@ -1,0 +1,1 @@
+The batteries are compared to a threshold of 3.28 volts and the results are reported for each battery. The system should report when battery 1 (faster discharge) drops below the threshold (goes invalid) but should not fail until battery 2 also goes invalid.

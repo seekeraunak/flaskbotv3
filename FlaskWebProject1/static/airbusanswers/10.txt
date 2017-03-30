@@ -1,0 +1,1 @@
+The FMS Flexible format promotes sharing across multiple platforms (i.e. A380 and A350) A320 R1A, A330/340 R1A, A380 and A350 NavDBs can be shared (up to 20MB). Yes NDB are “sharable” between platform but they NEED to be produce for this. There is a USER ID allowing the sharing. Customers need to request such a NDB to Aviation Services. 

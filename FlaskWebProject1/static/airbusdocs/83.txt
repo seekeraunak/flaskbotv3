@@ -1,0 +1,1 @@
+For the A320 Pegasus FMS when a pilot changes the Performance Factor will it clear at end of flight

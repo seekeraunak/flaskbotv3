@@ -1,0 +1,1 @@
+Do our Airbus Legacy FMCs support RF legs.

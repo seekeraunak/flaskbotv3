@@ -1,0 +1,1 @@
+Why sometimes the EOSID is displayed as normal SID for a Runway Airport but not proposed as Engine Out SID Airbus Pegasus FMS Step 1.

@@ -1,0 +1,1 @@
+The AMI is compatible. No need to change.

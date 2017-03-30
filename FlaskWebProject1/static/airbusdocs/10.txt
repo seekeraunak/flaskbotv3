@@ -1,0 +1,1 @@
+Can we use the same Navigation Database from our A350 to load in our A380 aircraft? 

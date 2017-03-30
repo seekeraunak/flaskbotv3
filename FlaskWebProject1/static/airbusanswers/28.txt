@@ -1,0 +1,1 @@
+In the A321 FMS the rate of climb is defined by Airbus and is a value embeded at 300 ft/min unlike the B777 where the operator can make changes to it through the Airline Modifiable Information (AMI) software.

@@ -1,0 +1,306 @@
+﻿<html>
+
+<head>
+
+<title>Airbus FMS Bot</title>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<script type="text/javascript">
+var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+
+	$(function() {
+    var submit_form = function(e) {
+      $.getJSON($SCRIPT_ROOT + '/_analyse', {
+        usrinp: $('input[name="userinp"]').val()
+      }, function(data) {
+	    $('#chattable').append("<tr><td style=\"color: blue; width: 310px;\"><b>Bot:</b> " + data.result + "</td></tr><br>");
+		$('#chattable')[0].scrollTop = $('#chattable')[0].scrollHeight;
+		var rowpos = $('#table tr:last').position();
+		$('#userinp').val("");
+        $('input[name=userinp]').focus().select();
+      });
+      return false;
+    };
+
+	$('input[type=text]').bind('keydown', function(e) {
+      if (e.keyCode == 13) {
+		var usrinp = $("#userinp").val();
+		//$('#chattable').append("<tr><td style=\"color: #8B4513; width: 310px;\"><b>You:</b> " + usrinp + "</td></tr><br>");
+		$('#chattable').append("<tr><td style=\"color: black; width: 310px;\"><b>You:</b> " + usrinp + "</td></tr><br>");
+		$('#chattable')[0].scrollTop = $('#chattable')[0].scrollHeight;
+        submit_form(e);
+      }
+    });
+    
+    $('input[name=userinp]').focus();
+
+});
+
+
+function deletetable()
+{
+var Table = document.getElementById("chattable");
+Table.innerHTML = "<tr> <td style=\"color: blue; width: 310px;\"><b>Bot:</b> Hi! Welcome to Honeywell Aerospace!</td></tr><tr><td style=\"color: blue; width: 310px;\"><b>Bot:</b> How can I help you?</td></tr>";
+}
+
+function open_chatbox()
+ {
+ //$('#chat').fadeOut(500);
+ $('#chatBox').fadeIn(1000);
+ }
+ function closeChat()
+ {
+ $('#chatBox').fadeOut(500);
+ //$('#chat').fadeIn(1000);
+ }
+
+
+
+
+</script>
+
+<style type="text/css">
+
+body{
+			
+			margin: 0px;
+			padding:0px;
+		}
+		
+		a,li,p,ul,div,img,span{
+			margin: 0px;
+			padding:0px;
+			
+		}
+		
+		#Outercontainer {
+			height:700px;
+			width:1344px; 
+			background-color:white; 
+			margin:0;
+			margin-top:20px;
+			margin-bottom:20px;
+			padding:0;
+		}
+		
+		#header-text{
+			color : #333;
+			font-weight : bold;
+			font-size : 14px;
+	
+		}
+		
+		a:link {
+		    color : #333;
+			font-weight : bold;
+			font-size : 14px;
+			text-decoration:none;
+		}
+		
+		a:visited {
+		    color : #333;
+			font-weight : bold;
+			font-size : 14px;
+		    text-decoration:none;
+		}
+		
+		a:hover {
+		    text-decoration:underline;
+		}
+		
+		.top-links{
+			float:left;
+			margin-right:20px;
+		
+		}
+		
+		#footer-content{
+			clear:left; 
+			background-color:#999999; 
+			margin-top:20px; 
+			margin-bottom:20px;
+			width:1346px; 
+			height:60px;
+			-webkit-margin-before:20px;
+		}
+		
+		#footer-text{
+			font-family:Arial; 
+			font-size:14px; 
+			color:#000000; 
+			text-align:right; 
+			padding-top:20px;
+			float:left;
+		}
+		
+		#footer-text-left{
+			font-family:Arial; 
+			font-size:14px; 
+			color:#000000; 
+			text-align:left; 
+			padding-top:20px;
+			float:left;
+			width:400px;
+			margin-right:400px;
+			margin-left:100px;
+		}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius:5px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+
+table {
+	display: block;
+    width: 310px; /* can be dynamic */
+	overflow: auto;
+    height: 420px;
+}
+
+ #chatBox
+ {
+ display:none;
+ position:absolute;
+ width:310px;
+ height:500px;
+ padding:10px;
+ color:#FF7700;
+ background:white;
+ text-align:center;
+ font-family:Cambria;
+ font-size:20px;
+ bottom:0px;
+ right:15px;
+ cursor:pointer;
+ border:2px blue solid;
+ border-radius:5px;
+ }
+ #close
+ {
+ position:absolute;
+ width:12px;
+ height:12px;
+ padding:6px 5px 10px 5px;
+ text-align:center;
+ /*background:rgba(0,0,0,0.8);*/
+ background:blue;
+ /*color:#FF7700;*/
+ color:white;
+ font-family:Cambria;
+ right:0px;top:0px;
+ }
+
+
+
+</style>
+
+</head>
+
+<body>
+
+	<div id="Outercontainer">
+	
+		<!------------------------------- Top Content Starts Here ----------------------------------->
+	
+		<div id="top-content">
+		
+			<div id="header-logo" style="margin-top:20px; margin-left:200px; margin-right:20px; margin-bottom:20px; width:250px; float:left;">
+				
+				<img src="/static/images/honeywell_logo.png" width="180" height="64">
+			
+			</div>
+			
+			<div id="header-text" style="margin-top:40px; float:left;">
+			
+				<p class="top-links"><a href="#">INDUSTRIES</a></p>
+				
+				<p class="top-links"><a href="#">WHO WE ARE</a></p>
+				
+				<p class="top-links"><a href="#">NEWSROOM</a></p>
+				
+				<p class="top-links"><a href="#">INVESTORS</a></p>
+				
+				<p class="top-links"><a href="#">CAREERS</a></p>
+				
+				<p class="top-links"><a href="#">CONTACT US</a></p>
+				
+				<p class="top-links" onClick="open_chatbox();"><a href="#">HELP</a></p>
+			
+			</div>
+
+					
+			<div id="central-graphic" style="margin-top:20px;">
+				
+				<img src="/static/images/capture.jpg" width="1349" height="442">
+			
+			</div>
+	
+		</div>
+		
+		<div id="footer-content">
+			<p id="footer-text-left"> TERMS &amp; CONDITIONS &nbsp;&nbsp; | &nbsp;&nbsp; PRIVACY POLICY</p>
+			<p id="footer-text">Copyright &copy;2017 Honeywell International Inc.</p>		
+		</div>
+		
+		
+		<div id="chatBox">
+	
+			<div onclick="closeChat()" id="close">
+				x
+			</div> 
+			
+			<p style="color:blue;">Live Assistant</p>
+			<br>
+			
+			<table id="chattable">
+
+		        <tr>   
+		            <td style="color: blue; width: 310px;"><b>Bot:</b> Hi! Welcome to Honeywell Aerospace!</td>
+		        </tr>
+		        
+		        <tr>   
+		            <td style="color: blue; width: 310px;"><b>Bot:</b> How can I help you?</td>
+		        </tr>
+
+			</table>
+     
+			<div style="margin-left:0;">
+				<input type="text" name="userinp" id="userinp" size="26">	
+				<!--<button type="submit" name="fileupload" class="button button2">File Upload</button>	-->		
+				<button type="submit" name="clearchat" class="button button2" onclick="deletetable()">Clear Chat</button>
+			</div>
+
+			
+		</div>
+		
+	</div>
+	
+
+</body>
+
+</html>

@@ -1,0 +1,2 @@
+CEA reports that whatever NDB they load to FMGC the active NDB shows Part Number but second NDB does not show Part Number and it should be a Part Number of last cycle
+FMGC Part Number is B546CAM010

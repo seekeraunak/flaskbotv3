@@ -1,0 +1,1 @@
+It is basic on the Long Range (LR) aircraft. On the Single Aisle (SA) aircraft it is activated by an MCDU Program Pin. It does not exist on the A380.

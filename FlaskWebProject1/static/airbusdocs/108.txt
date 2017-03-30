@@ -1,0 +1,2 @@
+Customer complained that UPLINK Prompts are missing from the INIT page
+When a INIT and WIND uplink request have been made from the primary F-PLN but the AOC F-PLN uplink is addressed to the secondary F-PLN the system will buffer the incoming uplink

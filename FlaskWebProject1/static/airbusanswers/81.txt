@@ -1,0 +1,1 @@
+The Wind uplink are limited to 182 winds on A380 FMS It is the software limit. Note also that the message size limit applies : 3296 characters (Arinc message size limit). So the number of cruise winds uplink depend on the number of characters used for waypoints identification in the uplink message. 182 is the theoretical maximum for 3 characters waypoints

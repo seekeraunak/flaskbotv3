@@ -1,0 +1,1 @@
+Is there a separate AMI necessary when upgrading to Step 1A or the current AMI for Step 1 compatible with it

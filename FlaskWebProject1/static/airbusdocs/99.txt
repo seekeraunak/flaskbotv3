@@ -1,0 +1,1 @@
+On aircraft with a Legacy Flight Management System can the default password ARM used to change the performance factor on the MCDU Aircraft Status Page be changed to a customised password

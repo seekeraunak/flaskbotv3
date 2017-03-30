@@ -1,0 +1,3 @@
+When uplinking of flight plan to FMGEC A330 or A340 aircraft equipped with Pegasus P3 (FM ops 4087700-903).
+In all the tests they almost always got some waypoints duplicated in the uplinked flight plan.
+What is the reason and how do avoid it.

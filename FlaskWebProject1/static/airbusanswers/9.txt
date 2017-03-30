@@ -1,0 +1,1 @@
+Airbus OEB 204 addresses an issue that exists with Release 1A. Basically, if the flight crew modifies a Company Route in the Alternate Flight Plan then the FMS no longer computes Alternate Fuel predictions. This is a minor issue and Honeywell has no firm plans for new software release.

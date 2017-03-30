@@ -1,0 +1,1 @@
+All three of the FMG(E)C Part Numbers listed (ie FMGC PN B546CAM0104, FMGEC PN B490BAM0310 and B490AAM0313) support trigger codes 47 and 48 as basic functionality - as long as the customer has FMS AOC data link is enabled of course (this is done in the APF and by Program Pin on all 3 P/Ns).

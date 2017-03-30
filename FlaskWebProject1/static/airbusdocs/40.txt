@@ -1,0 +1,1 @@
+Does the A380 FMS NavDB utilize PKI authentication similarly to other A380 Software.

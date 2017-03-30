@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+azure_mgmt.egg-info/PKG-INFO
+azure_mgmt.egg-info/SOURCES.txt
+azure_mgmt.egg-info/dependency_links.txt
+azure_mgmt.egg-info/not-zip-safe
+azure_mgmt.egg-info/requires.txt
+azure_mgmt.egg-info/top_level.txt

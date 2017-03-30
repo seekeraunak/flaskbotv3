@@ -1,0 +1,1 @@
+A customer reported that a number of waypoints are being displayed by OneNav with a value of 60 in the seconds part of the latitude or longitude whereas the integer part of the seconds value should never exceed 59

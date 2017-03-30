@@ -1,0 +1,1 @@
+For IAE engine the LRU PN is C13042BA03. For CFM engine the LRU PN is C13042AA04. LRU PN is not sufficient to define if Step1A is incorporated. To identify the Step1A FMS, you have to refer to the PN of the Op Software 4087600-903 (it is -902 for step 1). One method is to access the MCDU P/N Status Page.

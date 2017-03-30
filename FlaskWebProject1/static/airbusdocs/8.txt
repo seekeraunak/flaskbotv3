@@ -1,0 +1,1 @@
+After adding Alternate Company routes assocaited with specific ports to an A380 FMS navigation database (NDB) to allow population of the A380 FMS Flight Plan / ALTERNATE page an operator reported that Alternate route data was being automatically populated.

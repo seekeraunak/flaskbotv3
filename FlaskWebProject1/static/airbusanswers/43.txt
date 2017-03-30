@@ -1,0 +1,1 @@
+Most of these types of DMEs are what is called biased DMEs; the FMC navigation solution does not use biased DMEs. However, non collocated DMEs may be used when they meet the navigation solution criteria. For example, at EGLL all four of the ILS/DMEs are biased.

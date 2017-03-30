@@ -1,0 +1,1 @@
+Basically, the constraint in question (5000 AT or ABOVE) is always considered by the Flight Management System (FMS) since you can see the magenta * next to the altitude at the associated waypoint on the Multifunction Control Display Unit (MCDU). But “5000” will only show on the PFD in Magenta if the aircraft is going to level off at that altitude.

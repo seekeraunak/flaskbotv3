@@ -1,0 +1,1 @@
+We have received FMS Uplink reject reports with assocaited flight crew reports that they were unable to fully load the uplinked route waypoints in the A380 FMS.

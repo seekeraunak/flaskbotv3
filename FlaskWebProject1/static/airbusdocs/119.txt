@@ -1,0 +1,1 @@
+How does the Airbus FMS utilise the Magnetic Variation MAGVAR Database information when flying a procedure leg

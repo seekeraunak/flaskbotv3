@@ -1,0 +1,1 @@
+No it is not necessary to reload software when swapping between positions 1 and 2.

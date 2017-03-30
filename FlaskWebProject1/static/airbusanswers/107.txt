@@ -1,0 +1,1 @@
+If customer wants to use ARINC 615A data loader, A/C wiring is required. A MOD exist and is certified on Single Aisle A/C. You will need to contact Airbus for this. The last information Honeywell have from Airbus is that the connection is in the avionics bay.

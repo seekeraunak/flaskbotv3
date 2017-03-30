@@ -1,0 +1,1 @@
+No - in Climb the FMS will level off, if necessary, for an AT or an AT or BELOW constraint but it will not change performance to try and meet an AT or ABOVE constraint. It will display an amber asterisk plus the error.

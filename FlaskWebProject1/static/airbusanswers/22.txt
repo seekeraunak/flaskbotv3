@@ -1,0 +1,1 @@
+Yes, they are intermixable. The only difference is the mass memory technology (bubble memory for -976 and EEPROM for -978).

@@ -1,0 +1,1 @@
+GPS position is displayed on the GPS monitor page, provided this function has been activated. Activation is done by program pin for the Legacy FM and by OPC software option (Soft Pin program) on the Pegasus FM.

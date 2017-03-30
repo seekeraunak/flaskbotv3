@@ -1,0 +1,3 @@
+NAV FMS RESET IF NECESSARY is seen on the latest NAV FMS that was updated
+After Reset everything is normal Just like to check this is as per design
+in all the fleet we see the same behaviour

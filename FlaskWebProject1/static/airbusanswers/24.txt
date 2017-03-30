@@ -1,0 +1,1 @@
+Because there are no MCDUs then there is no means of providing the Back-Up Nav function in the case of a dual FMC failure. This back-up (plus more) is provided by having a 3rd FMC.

@@ -1,0 +1,1 @@
+Yes - a new runway can be defined but not a new airport. The new runway is selectable as an origin or destination but clearly no procedures will be available.

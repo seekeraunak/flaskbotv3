@@ -1,0 +1,1 @@
+Yes. The Step1 and Step1A Navigation Databases are not compatible. Please have the Operator contact their NavDB provider for a Flexi NavDB. This means that the Operator may need to operate a mixed fleet in terms of NavDB until the entire fleet is updated to Step1A.

@@ -1,0 +1,1 @@
+Why Pegasus Step1 FM reset in climb after FMS software loading

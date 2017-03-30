@@ -1,0 +1,1 @@
+Following the SRAM battery fault a class 1 fault message is recorded in the PFR without a FDE (Flight Deck Effect). The message is AFS:FMGC1 (or 2).

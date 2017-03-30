@@ -1,0 +1,1 @@
+BITE dump from the FMC if retrieved too late will not have the concerned flight data to help in any investigation. The FM bite should be downloaded asap for a crew reported event before they get overwritten and 5 days should be a limit.

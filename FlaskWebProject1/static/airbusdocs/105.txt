@@ -1,0 +1,1 @@
+Why on an A330 or A340 Pegasus FMS can Non Directional Beacon NDB approaches not be selected even though they are incloded coded in the loaded Navigation Database NDB

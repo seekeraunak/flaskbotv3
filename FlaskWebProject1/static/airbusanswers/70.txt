@@ -1,0 +1,1 @@
+The Airbus FMS range clears the Active Flight Plan at Flight Complete but retains the Secondary Flight Plan. The Boeing FMC range is similar. They have RTE 1 and RTE 2 rather than Active and Secondary. Either RTE 1 or RTE 2 can be Active. At Flight Complete, only the Active RTE is cleared.

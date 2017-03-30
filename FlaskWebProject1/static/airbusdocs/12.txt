@@ -1,0 +1,3 @@
+Unable to load Flex Nav Database on new A320 aircraft with FMS Step 1A software.
+Nav Database downloaded using One Nav tool and create diskette.
+During loading onto aircraft I am getting Disk error message.

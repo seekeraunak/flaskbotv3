@@ -1,0 +1,1 @@
+Does the A310 FMS support ACARS data link.

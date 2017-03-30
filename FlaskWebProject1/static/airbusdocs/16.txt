@@ -1,0 +1,1 @@
+How does anyone get help and guidance on AMI settings (Airline Modifiable Information) required for the Airbus FMC on any platform.

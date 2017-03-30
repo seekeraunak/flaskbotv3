@@ -1,0 +1,4 @@
+azure-mgmt-compute==0.20.1
+azure-mgmt-network==0.20.1
+azure-mgmt-resource==0.20.1
+azure-mgmt-storage==0.20.0

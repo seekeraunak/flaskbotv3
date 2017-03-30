@@ -1,0 +1,2 @@
+A340 Legacy FMS data base Airline Policy File (APF) allows to disable both FPN and POS reports, but not PGR reports.
+Can PGR reports be disabled.

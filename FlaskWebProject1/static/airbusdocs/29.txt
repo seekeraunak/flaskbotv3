@@ -1,0 +1,1 @@
+How are speed constraints on HF Legs handled by the Airbus range of Flight Management Computers.

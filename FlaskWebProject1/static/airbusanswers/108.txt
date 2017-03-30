@@ -1,0 +1,1 @@
+Clearing this problem requires a simultaneous FMGEC reset to clear the buffer. This problem is corrected in Step 1A. In the interum, insure the ground station addresses UPLINKs only to the active F-PLN, not secondary.

@@ -1,0 +1,1 @@
+Customer have reported that after loading a Nav Data Base the Dataloader will show load complete but the Nav Data Base didn't load.

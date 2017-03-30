@@ -1,0 +1,1 @@
+Applicable to A330/A340 - SB C12858A-22-013 The numbering "P3A11" on the Service Bulletin refers to FM (Flight Management ) and FG (Flight Guidance) versions (or standard) . - PX refers to Honeywell FM Software version. In the example of SB this is FM Software P3. - A11 refers to FG (Flight Guidance) version.

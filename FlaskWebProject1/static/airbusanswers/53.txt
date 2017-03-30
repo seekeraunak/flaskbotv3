@@ -1,0 +1,1 @@
+If disabled is selected then pilot-stored data will be cleared automatically at the done phase.

@@ -1,0 +1,2 @@
+What inputs feed the IRU’s to supply the FMS with high Residual GND Speed indications when both engines are shut-down including having the NAV Mode placed to OFF position
+This anomaly also can be experienced during taxi with single engine operation

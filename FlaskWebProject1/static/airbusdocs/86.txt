@@ -1,0 +1,1 @@
+How is data link enabled in the A310 FMC

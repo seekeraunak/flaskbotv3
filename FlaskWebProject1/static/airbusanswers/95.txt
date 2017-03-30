@@ -1,0 +1,1 @@
+No - transition for only 3 legs are dispalyed, the Active, Next and Next Next Legs are displayed. Note that our Boeing FMCs display all.

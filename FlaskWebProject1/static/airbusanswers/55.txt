@@ -1,0 +1,1 @@
+Yes - For Legacy, in the ENROUTE Area, the RNP is 3.41 NM and in the TERMINAL Area 2.07 NM. For Pegasus, from the Operational Program Configuration (OPC), we now have OCEANIC/ENROUTE as 2.0 NM and TERMINAL as 1.0 NM for the RNP limits.

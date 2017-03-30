@@ -1,0 +1,1 @@
+No, we do not support the NDB of Flight Management Guidance Computer PN: C13043xxxx is a complete Thales(thav)/SI (Smiths) FMGC. Note that Smiths is now GE (General Electric)and you will have to go to Thales/Smiths/GE for the NDB. C13042xxxx is a combined Thales(GC) / Honeywell (FM Cardset) FMGC and you could use Honeywells NDB service . See attachment.

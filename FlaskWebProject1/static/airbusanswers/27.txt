@@ -1,0 +1,1 @@
+You can make the CD without OneNav. Save the .zip file to the d: drive. Extract to d:\A380NDB using Winzip (Extract to Folder) Copy contents of D:\A380NDB\FD_LOCAL_CD_700MB_A665_v0_0\media1 to CD.

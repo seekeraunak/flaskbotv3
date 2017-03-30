@@ -1,0 +1,1 @@
+If both CDU went blank then we need to look at a common factor. Try to confirm that the data loader is serviceable and if so the data disks could be corrupted, try another set of disks.

@@ -1,0 +1,1 @@
+Does the A319 A320 A321 Pegasus Flight Management System with the Step 1A update require a new Nav Data Base format and is the format common between Step 1A and the A380.

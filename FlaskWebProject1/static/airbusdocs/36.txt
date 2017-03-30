@@ -1,0 +1,1 @@
+What is the logic used in the Airbus Pegasus FMS Winds report request in regards to what altitudes are inserted in the winds request downlink.

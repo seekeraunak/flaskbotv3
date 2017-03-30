@@ -1,0 +1,1 @@
+CI (Cost Index) is included on FMGC Data Link Performance Data Report (PER). CI on the report is the same value displayed on the CLB, CRZ and DES PERF MCDU page. Pilot can change CI on these MCDU pages. PER can only be sent automatically in response to a ground station request for PER (flight crew initiation of this report is not possible).

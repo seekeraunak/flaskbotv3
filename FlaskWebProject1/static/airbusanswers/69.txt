@@ -1,0 +1,1 @@
+When a pilot defined waypoint is used by any MFD or ND page except the DUPLICATE page, DUPLICATE ND Dialog Box page, or any DATA page, for flight planning, for reference on FIX INFO page, for information data on POSITION MONITOR page, etc, the waypoint will be retained in the Pilot defined waypoint list.

@@ -1,0 +1,2 @@
+To assist in troubleshooting and investigation BITE should be downloaded from the FMC
+How long will the relevant data be stored before being written over

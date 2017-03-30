@@ -1,0 +1,4 @@
+Embodiment of Airbus SB A320-22-1269 R1.
+To Install HWNL H2C12 (release 1A) on CFM aircraft leads to Airbus creation of an OEB 204.
+What is Airbus OEB 204 and how does it affects Step 1A software.
+Is Honeywell planning to release or update the FMS software.

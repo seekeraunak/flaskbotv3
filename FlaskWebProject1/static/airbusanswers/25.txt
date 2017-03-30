@@ -1,0 +1,1 @@
+FM DATALINK UNAVAIL message means that the communication bus between the ATSU and the communication master FM is not ready. See C28-3641-033  ( MCDU Messages-Table C-1 ) for SA.

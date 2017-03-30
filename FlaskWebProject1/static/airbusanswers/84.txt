@@ -1,0 +1,1 @@
+Failed Fuel Flow Indicator(s) will have FMC “memory fault history” and could be primary failure indication. Fuel Flow inputs from each engine feed both FMC’s, via the A429 buss and if the indicator(s) haven’t failed, replace the applicable Fuel Flow Sensor to correct the anomaly.

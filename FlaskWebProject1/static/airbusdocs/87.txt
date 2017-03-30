@@ -1,0 +1,1 @@
+What is causing excessive residual ground speed reported on all 3 IRUs on CDU IRS MONITOR Page on Airbus A310 A300-600 FMS

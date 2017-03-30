@@ -1,0 +1,1 @@
+Ref CMM 34-61-59 page 1062, the maximum battery current draw must not exceed 150 uA in the power off state.

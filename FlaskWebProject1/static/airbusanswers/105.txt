@@ -1,0 +1,1 @@
+To select any of the NDB approaches included in the Nav DB, the operator needs to have the Airbus OPC option of "NO ADF ON BOARD" set to NO.

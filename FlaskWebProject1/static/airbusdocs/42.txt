@@ -1,0 +1,1 @@
+What is this PKI certificate requirement on CDROM when loading FMS NDB onboard A380.

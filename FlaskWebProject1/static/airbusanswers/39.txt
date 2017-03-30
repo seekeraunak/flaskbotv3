@@ -1,0 +1,1 @@
+Check that the correct Operational Program Configuration (OPC) database has been loaded. The OPC enables / disables GPS availability to the FMS and if the default or an incorrect is loaded in the Flight Management Guidance Computer (FMGC) or Flight Management Guidance Envelope Computer (FMGEC), then GPS is disabled and thus the GPS monitor page is not displayed.

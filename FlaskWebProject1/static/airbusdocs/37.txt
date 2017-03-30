@@ -1,0 +1,1 @@
+What is the text of the class 1 fault message in the Post Flight Report PFR following the Static Random Access Memory SRAM battery fault.

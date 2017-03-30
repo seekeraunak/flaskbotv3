@@ -1,0 +1,1 @@
+No, while the A380 NavDB uses PKI security authentication, it does not follow the A665 P/N format. Instead, it follows the legacy NavDB P/N format of XXX-YYCC-REV.

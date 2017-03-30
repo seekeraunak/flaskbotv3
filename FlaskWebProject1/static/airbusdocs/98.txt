@@ -1,0 +1,2 @@
+A customer operating A380 without GLS capability wanted to know if a NavDB with GLS approach data can be used on his non-GLS aircraft and when a NDB with GLS approach data is used on the Non GLS aircraft
+If the FMS will show GLS line selection or not

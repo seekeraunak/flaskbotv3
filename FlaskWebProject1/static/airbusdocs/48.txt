@@ -1,0 +1,1 @@
+Go Around procedures appear incorrectly strung with waypoints showing erroneous distances.

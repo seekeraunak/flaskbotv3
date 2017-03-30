@@ -1,0 +1,1 @@
+Why is the FMS displaying dashes instead of the IRS drift after landing

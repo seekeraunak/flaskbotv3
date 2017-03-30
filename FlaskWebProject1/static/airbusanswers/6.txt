@@ -1,0 +1,1 @@
+PRG report triggers have to be cleared in the Airline Policy File (APF) to disable download of the PRG reports.

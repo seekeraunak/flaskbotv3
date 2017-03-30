@@ -1,0 +1,2 @@
+After a modification of the Cost Index by the pilot on MCDU in flight can ground receive this change
+When does aircraft send CI to ground

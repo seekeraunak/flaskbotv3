@@ -1,0 +1,1 @@
+Do our later Airbus FMCs and Boeing FMCs support RNP Holds.

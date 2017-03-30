@@ -1,0 +1,1 @@
+The memory capacity for your unit is 4MB. The upcoming change for Step 1A will bring a new format for the Nav database to be 20MB. Note there is no interchangeability between a Step 1A data base and the previous Step 1 data base.

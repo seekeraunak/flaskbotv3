@@ -1,0 +1,3 @@
+The route was not uplink completely and there were route discontinuity on waypoint RUSSO and NERTI
+We investigated that the reason why there was route discontinuity on these 2 waypoints because FMS has a logic that if the FMS NavDB contains 2 waypoints of the same name in this case RUSSO and NERTI
+it requires the waypoint Latitude and LONgitude to be uplinked as well so that the FMS can differentiate the waypoint for the flight plan

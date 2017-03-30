@@ -1,0 +1,2 @@
+What could be causing the Global Positioning System GPS monitoring page prompt to be missing from the Flight Management System FMS Multifunction Control Display Unit MCDU.
+Both Multi-Mode Receivers MMR's have been confirmed to be serviceable.

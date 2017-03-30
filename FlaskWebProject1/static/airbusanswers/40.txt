@@ -1,0 +1,1 @@
+Yes, the A380 NavDB does use PKI authentification.

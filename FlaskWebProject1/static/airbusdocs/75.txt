@@ -1,0 +1,1 @@
+ETA in datalink report is received but LAT LON comes through as MMM:MM and FOB is blank.

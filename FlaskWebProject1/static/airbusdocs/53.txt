@@ -1,0 +1,2 @@
+If the Airline Modifiable Information AMI 2.3.1 Pilot Data Retention selection is chosen to be DISABLED.
+will the pilot stored data be erased at the done phase automatically.

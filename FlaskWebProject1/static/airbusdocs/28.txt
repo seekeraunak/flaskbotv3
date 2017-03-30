@@ -1,0 +1,1 @@
+On the A321 what rate of climb with MAX CLB thrust set is selected for the Max Altitude computation in the Flight Management System.

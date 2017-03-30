@@ -1,0 +1,1 @@
+This feature referring to AOC progress report which is automatically down-linked upon a change of destination. It did not change with step1A. It is one of the AOC unction within the FMS. AOC function needs to be activated in both OPC and AMI to ensure this automatic downlink of Progress report upon destination change.

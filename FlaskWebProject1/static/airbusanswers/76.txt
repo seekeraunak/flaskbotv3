@@ -1,0 +1,1 @@
+- The basic NDB size for the FMGC B546XXX (legacy FM Card Set) is 400 Kbytes (192 Kwords). - Navigation Data Base size increase up to 800 Kbytes is an option that can be activated via program pin. Such change has to be done through Airbus Service Bulletin. Operators/Customers should contact Airbus.

@@ -1,0 +1,1 @@
+GLS Approach capability is indicated to the FMC by the MMR. The MMR’s on the non-GLS aircraft will not be indicating GLS capability to the FMS, in which case GLS Approaches will not be made available to the flight crew for selection. Non GLS aircraft will operate OK with a database that have GLS data.

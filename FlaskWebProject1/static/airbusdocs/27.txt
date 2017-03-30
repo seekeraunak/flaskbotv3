@@ -1,0 +1,1 @@
+After downloading the A380 NDB zip file from the website what altenative method can be use if the zip file cannot be extracted using the OneNav tool.

@@ -1,0 +1,1 @@
+Why would the system not take the new core load during the execution of SB 4052510-34-6028.

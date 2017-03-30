@@ -1,0 +1,2 @@
+How can FMS Datalink be enabled.
+A330 and A340 both Legacy & Pegasus as well as Single Aisle A318 up to A321 inclusive with Pegasus FMS.

@@ -1,0 +1,1 @@
+What is the source of the latitude longitude coordinates that are loaded in the FMS when the flight crews request a flight plan uplink that is the coordinates that are populated in the MCDU IRS align page after the uplink is received.

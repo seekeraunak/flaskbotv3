@@ -1,0 +1,1 @@
+Can the GPS position be displayed on the A320 MCDU and Airbus Pegasus FMS.

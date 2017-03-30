@@ -1,0 +1,2 @@
+What is the basis for FINAL Fuel computation.
+Applicable to Airbus aircrafts with Pegasus FMS A318 or A319 or A320 or A321 or A330 or A340.

@@ -1,0 +1,1 @@
+Yes - ACARS capability was added to the A310 FMS and it is activated by Program Pin.

@@ -1,0 +1,1 @@
+The current A380 FMS in-service software (L2 and L2.1) is limited to 50 Pilot Defined waypoints. It is 20 for pilot defined navaids. The A380 FMS treats any Uplinked Lat/Lon waypoint as a new Pilot Defined Element. So if the operator is using FPLN uplinks - and if you uplink more than 50 Pilot Defined waypoints- then only the first 50 will be inserted. The others are rejected.

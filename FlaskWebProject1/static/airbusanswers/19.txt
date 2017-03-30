@@ -1,0 +1,1 @@
+Service bulletin 4052510-34-6022 was written to give the ability to take any AFMC part number back to the GE/ PW common base number of 4052510-957/958 or 964/965. You can then utilize an existing bulletin to go to the desired part number.

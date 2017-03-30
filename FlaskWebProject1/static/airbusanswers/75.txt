@@ -1,0 +1,1 @@
+If the crew enters a value for ETE then the ETA will be a claculated value, but the LAT/LON and FOB are originated in the FMS so make sure the Datalink option is enabled for the FMS.

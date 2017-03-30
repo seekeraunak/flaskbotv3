@@ -1,0 +1,1 @@
+Due to system limitations, A300/A310 aircraft with -979 or earlier version FMC's were limited to flying coupled Non precision approaches down to 1000ft.

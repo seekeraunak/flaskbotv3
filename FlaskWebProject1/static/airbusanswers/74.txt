@@ -1,0 +1,1 @@
+The “FINAL” fuel computations in the FMS are quite straightforward but cannot be changed. FINAL FUEL = FINAL TIME*FINAL FUEL FLOW. Where FINAL FUEL FLOW is based on Maximum Endurance Speed assuming FLAPS/SLATS configuration 1 at the FINAL Altitude (typically 1500ft) as specified in the AMI (Airline Modifiable Information).

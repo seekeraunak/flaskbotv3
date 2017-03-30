@@ -1,0 +1,1 @@
+How do Boeing and Airbus FMCs differ in terms of Route Retention at transition to Flight Complete end of flight.

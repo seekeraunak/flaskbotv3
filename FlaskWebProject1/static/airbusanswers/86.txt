@@ -1,0 +1,1 @@
+Via a single program pin. The data link function is called ACARS on A310. The program pin is also called ACARS.

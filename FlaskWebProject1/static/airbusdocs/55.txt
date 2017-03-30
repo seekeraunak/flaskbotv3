@@ -1,0 +1,1 @@
+Is there a difference between the Pegasus and Legacy Flight Management System FMS default Required Navigation Performance RNP values.

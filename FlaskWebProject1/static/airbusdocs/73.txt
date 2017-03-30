@@ -1,0 +1,1 @@
+Is a hardware mod required to the FMS to support the Airbus FMC Step 1A upgrade.

@@ -1,0 +1,1 @@
+No - they do not. Note that this could be a driver for retrofit to Pegasus with RNP SAAAR (US) and AR (Europe) requirements coming out.

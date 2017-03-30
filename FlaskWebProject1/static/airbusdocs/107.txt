@@ -1,0 +1,1 @@
+If customer wants to use ARINC 615A loader can they connect loader direct on the front panel of FMGC or it must modify aircraft to add ARINC 615A function

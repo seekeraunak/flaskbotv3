@@ -1,0 +1,1 @@
+Yes - The Nav Data Base format required for Pegasus FMS with the Step 1A update is the new Flex format which is not compatible with Step 1 Pegasus FMS. This is the same format used with the A380.

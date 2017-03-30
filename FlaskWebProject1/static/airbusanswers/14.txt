@@ -1,0 +1,1 @@
+With the implementation of software versions -980 and -981, the A300/A310 aircraft are allowed to fly Non-precision approaches down to MDA (Minimum Decision Altitude)

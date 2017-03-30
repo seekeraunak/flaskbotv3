@@ -1,0 +1,1 @@
+Yes, it is per design (per Airbus specification). When the element currently selected for display on FMS PN page is FMS option config and when this element has changed since FMS power up then RESET NECESSARY shall be displayed. It is obviously the case after the upgrade to L2 since no more OPC are loaded /required (it is now SPP).

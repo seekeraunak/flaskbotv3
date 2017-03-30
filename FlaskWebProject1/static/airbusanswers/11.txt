@@ -1,0 +1,1 @@
+1) - Ops s/w is the computational part and the OPC is the set of options – basically the OPC is s/w program pins. 2) - "FM Options Config" is actually the OPC.

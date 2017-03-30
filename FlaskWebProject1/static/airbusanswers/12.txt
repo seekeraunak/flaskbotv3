@@ -1,0 +1,1 @@
+It looks like that the data loader is not communicating with the diskette. It could be the diskette problem. Suggest that you re-format the diskette and using One Nav tool, using the same formatted diskette, create the loading diskette and perform loading on the aircraft.

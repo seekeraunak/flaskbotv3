@@ -1,0 +1,1 @@
+On aircraft when performing “GET INFORMATION” to test the A615-A connection between FMGC1 and PMAT 2000, this test would failed if the PMAT 2000 is not at software version 23. HONEYWELL ARINC 615A software media would load fine on Teledyne PMAT 2000 if it has the dataloading function software upgraded to version 23.

@@ -1,0 +1,1 @@
+What is the logic in Airbus Step 1A used to produce the AMBER EFOB figure at the destination on the FUEL PRED page and the EFOB figure on the FLIGHT PLAN page with the resulting AMBER scratchpad message DEST EFOB BELOW MIN

@@ -1,0 +1,2 @@
+LSBM gives an error about the part number AYA1510001.
+which is not following the ARINC 665 specification that length should be less than 15 characters.

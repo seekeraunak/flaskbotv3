@@ -1,0 +1,1 @@
+It is always good practice to wait 10 seconds after you get the "Load Complete" on the dataloader, before disconecting the loader. Sometimes the loader shows Load Complete before all of the necesary handshakes.

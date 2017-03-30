@@ -1,0 +1,1 @@
+Airbus A319 A320 A321 A330 A340 Legacy and Pegasus FMS Does the FMC use offset DMEs in its Navigation Solution.

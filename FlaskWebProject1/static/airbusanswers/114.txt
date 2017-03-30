@@ -1,0 +1,1 @@
+Actually, the NDB gathers 2 cycles. So for 1 NDB ident like MU31011002, there are 2 NDB cycles inside. 1 for cycle 23 September to 21 October The other from 21 October to 18 Nov. But both refers to the same NDB MU31011002. It is true for all the FMS.

@@ -1,0 +1,1 @@
+Latching of both AFMC's (4052510) on an A300 during a failed Nav Database Crossload.

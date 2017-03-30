@@ -1,0 +1,1 @@
+GPS was incorporated into the A300 FMS (4052510) with service bulletin 4052510-34-SW18 and SW19Conversion to part number 4052510-972/974 and 973/975

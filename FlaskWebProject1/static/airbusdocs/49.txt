@@ -1,0 +1,2 @@
+A310 FMCS Part No 4052510-978 upgrading to Part No 4052510-980 as per SB 4052510-34-6028.
+Why after loading discs both CDU went blank.

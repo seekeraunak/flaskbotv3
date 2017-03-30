@@ -1,0 +1,5 @@
+Would you please advise regarding planned HETA (Harmonised European Transition Altitude) by the EASA and Eurocontrol.
+There is an effort to select the unique Transition Altitude for European SES airspace with high probability of 18000ft the same as US&CAN region.
+How that will be defined within FMS and NAV DB selection. 
+For example in EU all TAs are set locally defined by local authority.
+Does it mean that existing coding of NAV DBs are defined according to local regulation concerning those local TAs and after the decision is made based on EASA docs and AIPs the coding will reflect the HETA for European airspace and 18000ft as default value.

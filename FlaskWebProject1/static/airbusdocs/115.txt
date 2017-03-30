@@ -1,0 +1,2 @@
+I have recently updated the FMS on our A319 Fleet to Step1A and now the NavDB will not load
+Do I need a new NavDB

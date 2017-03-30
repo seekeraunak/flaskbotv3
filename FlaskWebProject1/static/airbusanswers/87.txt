@@ -1,0 +1,1 @@
+If the aircraft is taxiing on one engine after landing, the problem may be caused by a bad Fuel Flow sensor on the running engine side. The logic for the Residual Ground Speed snapshot is: - Not airborne + Fuel Flow less than 220kg/hr for at least 10 sec on both engines or - Not Airborne + Fuel Flow NCD (No Computed data)

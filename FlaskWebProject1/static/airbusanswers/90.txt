@@ -1,0 +1,1 @@
+No - The descent minimum speed is set by a Performance Data Base constant. It was 250 kts in PS200H-08193 and changed to 270 Kts in PS200H-0824, the latest PDB for A320.

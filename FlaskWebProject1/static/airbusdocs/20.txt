@@ -1,0 +1,1 @@
+Does Honeywell have an official document explaining the expected accuracy of DME with IRU over IRU only operation.
